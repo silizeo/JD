@@ -4,6 +4,11 @@
 #### 样例：
 {"ywsession":"111","Cookie":"ywguid=111;ywkey=11;platform=android;channel=mqqmina;mpVersion=0.30.0","Connection":"keep-alive","Content-Type":"application/json","Accept":"*/*","Host":"mqqapi.reader.qq.com","User-Agent":"111","Referer":"https://appservice.qq.com/1110657249/0.30.0/page-frame.html","Accept-Language":"zh-cn","Accept-Encoding":"gzip, deflate, br","mpversion":"0.30.0"}@https://mqqapi.reader.qq.com/mqq/样例=-1@{"ywsession"":"11","Cookie":"ywguid=11;ywkey=11;platform=android;channel=mqqmina;mpVersion=0.30.0;qq_ver=8.4.18.4945;os_ver=Android 10;mpos_ver=0.30.0;platform=android;openid=11","Connection":"keep-alive","Content-Type":"application/json","Accept":"*/*","Host":"mqqapi.reader.qq.com","User-Agent":"1111","Referer":"https://appservice.qq.com/yangli","Accept-Language":"zh-cn","Accept-Encoding":"gzip, deflate, br","mpversion":"0.30.0"}
 
+## 多账号格式,直接换行就行
+账号1的qqreadheaderVal@qqreadtimeVal@qqreadtimeheaderVal
+账号2的qqreadheaderVal@qqreadtimeVal@qqreadtimeheaderVal
+账号3的qqreadheaderVal@qqreadtimeVal@qqreadtimeheaderVal
+
 # 感谢sazs34大佬的替换思路和脚本  https://github.com/sazs34  
 # 感谢ZIYE制作的企鹅阅读脚本  https://github.com/18u  
 # 感谢telegram群的Money Mr提供脚本 https://t.me/qhqcz
