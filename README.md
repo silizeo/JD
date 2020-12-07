@@ -14,10 +14,7 @@ https://mqqapi.reader.qq.com/mqq/addReadTimeWithBid?scene=***&refer=-1&bid=***&r
   ```
 {"ywsession":"填写你的ywsession信息","Cookie":"填写你QQREADHEADERKEY的cookie,长一点的，带openid的","Connection":"keep-alive","Content-Type":"application/json","Accept":"*/*","Host":"mqqapi.reader.qq.com","User-Agent":"你抓到的UserAgent","Referer":"Referer链接","Accept-Language":"zh-cn","Accept-Encoding":"gzip, deflate, br","mpversion":"这个安卓和IOS的不一致，自己填"}
   ```
-### 多账号格式,直接换行就行  
-账号1的qqreadheaderVal@qqreadtimeVal@qqreadtimeheaderVal  
-账号2的qqreadheaderVal@qqreadtimeVal@qqreadtimeheaderVal  
-账号3的qqreadheaderVal@qqreadtimeVal@qqreadtimeheaderVal  
+### 多账号直接换行就行  
 
 ### 安卓抓包工具  
 HttpCanary（我用的）
