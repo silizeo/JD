@@ -4,7 +4,7 @@
 #### 样例 QQREAD_BODY:  
 ###### 小黄鸟关键词：book_read
   ```
-{"common":{"appid":111,"areaid":5,"qq_ver":"8.4.18.4945","os_ver":"Android 10","mp_ver":"0.31.0","mpos_ver":"1.21.0","brand":"Xiaomi","model":"Mi 10 Pro","screenWidth":393,"screenHeight":835,"windowWidth":393,"windowHeight":781,"openid":"111","guid":11,"session":"111","scene":3001,"source":"11","hasRedDot":"false","missions":-1,"caseID":-1},"dataList":[{"click1":"push_limitYes_suc_C","click2":"bookStore_newCl_nextPage_C","route":"pages/book-read/index","refer":"pages/index/index","options":{"bid":"11"},"dis":11,"ext6":8,"eventID":"onHide_O","type":"others","ui_pos":2}]}
+{"common":{"appid":1450024393,"areaid":5,"qq_ver":"8.4.18.4945","os_ver":"Android 10","mp_ver":"0.31.0","mpos_ver":"1.21.0","brand":"Xiaomi","model":"Mi 10 Pro","screenWidth":393,"screenHeight":835,"windowWidth":393,"windowHeight":781,"openid":"11","guid":111,"session":"11","scene":3001,"source":-1,"hasRedDot":"false","missions":-1,"caseID":-1},"dataList":[{"click1":"bookDetail_bottomBar_read_C","click2":"bookStore_newCI_unit_C","route":"pages/book-read/index","refer":"pages/book-detail/index","options":{"bid":"20506956","cid":"1"},"dis":1607374918479,"ext6":42,"eventID":"bookRead_show_I","type":"shown","ccid":1,"bid":"20506956","bookStatus":1,"bookPay":0,"chapterStatus":0,"ext1":{"font":18,"bg":0,"pageMode":1},"from":"3001_20506956"}]}
 
   ```
 #### 样例 QQREAD_TIMEURL:  
