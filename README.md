@@ -9,12 +9,12 @@
 
   ```
 #### 样例 QQREAD_TIMEURL:  
-###### 小黄鸟关键词：TimeWithBid
+##### 小黄鸟关键词：TimeWithBid
   ```
 https://mqqapi.reader.qq.com/mqq/addReadTimeWithBid?scene=***&refer=-1&bid=***&readTime=***&read_type=0&conttype=1&read_status=0&chapter_info=%5B%7B%221%22%3A%7B%22readTime%22%3A***%2C%22pay_status%22%3A0%7D%7D%5D&sp=-1
   ```
 #### 样例 QQREAD_TIMEHD :   
-###### 小黄鸟关键词：ck2
+##### 小黄鸟关键词：ck2
   ```
 {"ywsession":"填写你的ywsession信息","Cookie":"填写你QQREADHEADERKEY的cookie,长一点的，带openid的","Connection":"keep-alive","Content-Type":"application/json","Accept":"*/*","Host":"mqqapi.reader.qq.com","User-Agent":"你抓到的UserAgent","Referer":"Referer链接","Accept-Language":"zh-cn","Accept-Encoding":"gzip, deflate, br","mpversion":"这个安卓和IOS的不一致，自己填"}
   ```
